@@ -1,0 +1,29 @@
+{
+  "name": "googlesheets",
+  "version": "1.0.0",
+  "description": "A simple Node.js module for reading and manipulating data in Google sheets.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANOJHC/googlesheets.git"
+  },
+  "keywords": [
+    "google spreadsheets",
+    "google sheets",
+    "spreadsheet",
+    "google",
+    "sheets",
+    "spreadsheets",
+    "gdata",
+    "api"
+  ],
+  "author": "Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANOJHC/googlesheets/issues"
+  },
+  "homepage": "https://github.com/MANOJHC/googlesheets#readme"
+}
